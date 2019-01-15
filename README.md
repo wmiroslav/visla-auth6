@@ -19,6 +19,7 @@ This module is created to handle all authentication requirements in the Angular6
 - for handling the roles in HTML and route guard, getMe endpoint response should have object with a "role" property
 - your typescript version should be at least 2.9.2
 <br>
+
 ```javascript
 "typescript": "~2.9.2" // package.json
 ```
