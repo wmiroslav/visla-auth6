@@ -6,6 +6,10 @@
     "rxjs",
     "@angular/http"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmiroslav/visla-auth6"
+  },
   "keywords": [
     "angular",
     "angular 6",
