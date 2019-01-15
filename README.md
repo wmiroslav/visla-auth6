@@ -370,19 +370,3 @@ If you want to use this methods, it's required to define endpoints for them in c
 <br/>
 
 <hr/>
-
-# Build new npm package
-- update npm package version in projects/visla-auth/package.json
-- ng build VislaAuth
-- navigate to ./dist/visla-auth
-- npm login
-- npm publish
-
-<br/>
-<br/>
-todo, fix this:
-<br/>
-In dist folder, remove all absolute paths:
-userRole$: import("../../../../../../../localUrl/visla-auth6/node_modules/rxjs/internal/Observable").Observable<string>;
-<br> to: <br>
-userRole$: import("node_modules/rxjs/internal/Observable").Observable<string>;
