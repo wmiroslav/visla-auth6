@@ -1,0 +1,34 @@
+{
+  "name": "visla-auth",
+  "version": "6.1.7",
+  "license" : "MIT",
+  "whitelistedNonPeerDependencies": [
+    "rxjs",
+    "@angular/http"
+  ],
+  "keywords": [
+    "angular",
+    "angular 6",
+    "angular6",
+    "ng",
+    "ng6",
+    "authentication",
+    "auth",
+    "jwt",
+    "interceptor",
+    "interceptor",
+    "header interceptor",
+    "guards",
+    "permission",
+    "token",
+    "refresh token",
+    "repeat failed request",
+    "role",
+    "http",
+    "error handling",
+    "login",
+    "rest",
+    "user role",
+    "module"
+  ]
+}
